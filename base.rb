@@ -11,7 +11,6 @@ puts
 
 gem "authlogic"
 gem "declarative_authorization", :source => "http://gemcutter.org"
-gem "mondo-generators", :source => "http://gemcutter.org"
 gem "RedCloth", :lib => "redcloth"
 gem "mislav-will_paginate", :lib => "will_paginate", :source => "http://gems.github.com"
 
